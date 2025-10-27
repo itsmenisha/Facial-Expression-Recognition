@@ -91,26 +91,26 @@ cd Facial-Expression-Recognition
 ## Usage
 
 
--Open the Colab notebook and run all cells to train the CNN with the FER2013 dataset. with the gpu provdied in the runtime (change it )
+- Open the Colab notebook and run all cells to train the CNN with the FER2013 dataset. with the gpu provdied in the runtime (change it )
 
 
--Run the detection script with a connected webcam:
+- Run the detection script with a connected webcam:
 bash'''
 python real_time_emotion_detection.py
 '''
 
 ---
 
-Tools & Technologies
+## Tools & Technologies
 
--Google Colab – GPU training
+- Google Colab – GPU training
 
--Python – Core programming language
+- Python – Core programming language
 
--TensorFlow/Keras – CNN model building and training
+- TensorFlow/Keras – CNN model building and training
 
--OpenCV – Real-time face detection and emotion recognition
+- OpenCV – Real-time face detection and emotion recognition
 
--Kaggle FER2013 Dataset – Training dataset
+- Kaggle FER2013 Dataset – Training dataset
 
 ---
