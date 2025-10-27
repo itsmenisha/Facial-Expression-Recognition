@@ -10,7 +10,8 @@ The project was developed as part of an **Artificial Intelligence Internship at 
 
 ## Dataset
 
-The model is trained on the **[FER2013 dataset from Kaggle](https://www.kaggle.com/datasets/msambare/fer2013)**:
+The model is trained on the **<a href="https://www.kaggle.com/datasets/msambare/fer2013" target="_blank">FER2013 Dataset on Kaggle</a>
+**:
 
 - ~35,000 grayscale images of size 48×48 pixels  
 - Each image is labeled with one of seven emotions  
@@ -51,7 +52,8 @@ Facial-Expression-Recognition/
 The trained model was exported as a `.keras` file for testing.  
 
 **Full training notebook:**  
-[Face_expression_recognition_notebook.ipynb](https://github.com/itsmenisha/Facial-Expression-Recognition/blob/main/Face_expression_recognition_notebook.ipynb)  
+<a href="https://github.com/itsmenisha/Facial-Expression-Recognition/blob/main/Face_expression_recognition_notebook.ipynb" target="_blank">Face_expression_recognition_notebook.ipynb</a>
+
 
 ---
 
@@ -61,8 +63,7 @@ The trained model was exported as a `.keras` file for testing.
 - Faces were detected with Haar cascades, converted to grayscale, resized to 48×48 pixels, and fed into the CNN for emotion recognition.  
 - Real-time webcam predictions are displayed with bounding boxes and emotion labels.  
 
-**Real-time detection code:**  
-[real_time_emotion_detection.py](https://github.com/itsmenisha/Facial-Expression-Recognition/blob/main/real_time_emotion_detection.py)  
+**<a href="https://github.com/itsmenisha/Facial-Expression-Recognition/blob/main/Face_expression_recognition_notebook.ipynb" target="_blank">Real-time detection code</a>**  
 
 ---
 
@@ -70,7 +71,7 @@ The trained model was exported as a `.keras` file for testing.
 
 - To share the Colab notebook on GitHub, widgets were removed using a Python script that cleans notebook metadata.  
 - The cleaned notebook is available in the repository.
-[real_time_emotion_detection.py](https://github.com/itsmenisha/Facial-Expression-Recognition/blob/main/real_time_emotion_detection.py)  
+<a href="https://github.com/itsmenisha/Facial-Expression-Recognition/blob/main/real_time_emotion_detection.py" target="_blank">real_time_emotion_detection code</a>
 
 
 ---
@@ -92,7 +93,7 @@ cd Facial-Expression-Recognition
 ---
 ## Usage
 
-- Open the Colab notebook and run all cells to train the CNN with the FER2013 dataset. with the gpu provdied in the runtime (change it )
+- Open the Colab notebook and run all cells to train the CNN with the FER2013 dataset with GPU.
 - Run the detection script with a connected webcam:
 bash'''
 python real_time_emotion_detection.py
