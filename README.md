@@ -10,7 +10,8 @@ The project was developed as part of an **Artificial Intelligence Internship at 
 
 ## Dataset
 
-The model is trained on the **[FER2013 dataset from Kaggle](https://www.kaggle.com/datasets/msambare/fer2013)**:
+The model is trained on the **[FER2013 dataset from Kaggle](https://www.kaggle.com/datasets/msambare/fer2013)
+**:
 
 - ~35,000 grayscale images of size 48×48 pixels  
 - Each image is labeled with one of seven emotions  
