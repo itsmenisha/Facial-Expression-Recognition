@@ -81,38 +81,36 @@ Ensure **Python 3.8+** is installed. Install dependencies:
 pip install -r requirements.txt
 ```
 ---
+## Cloning the Repository
 
-
-Cloning the Repository
+```bash
 git clone https://github.com/itsmenisha/Facial-Expression-Recognition.git
 cd Facial-Expression-Recognition
-
-Usage
-
-Optional: Train the model
-
-Open the Colab notebook and run all cells to train the CNN with the FER2013 dataset.
-
-Real-time emotion detection
-
-Run the detection script with a connected webcam:
-
-python emotion_detection.py
+```
+---
+## Usage
 
 
-The program detects faces in real-time and predicts emotions.
+-Open the Colab notebook and run all cells to train the CNN with the FER2013 dataset. with the gpu provdied in the runtime (change it )
+
+
+-Run the detection script with a connected webcam:
+bash'''
+python real_time_emotion_detection.py
+'''
+
 ---
 
 Tools & Technologies
 
-Google Colab – GPU training
+-Google Colab – GPU training
 
-Python – Core programming language
+-Python – Core programming language
 
-TensorFlow/Keras – CNN model building and training
+-TensorFlow/Keras – CNN model building and training
 
-OpenCV – Real-time face detection and emotion recognition
+-OpenCV – Real-time face detection and emotion recognition
 
-Kaggle FER2013 Dataset – Training dataset
+-Kaggle FER2013 Dataset – Training dataset
 
 ---
