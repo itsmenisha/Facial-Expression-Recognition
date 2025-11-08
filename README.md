@@ -6,6 +6,8 @@ This project implements a **Facial Expression Recognition** system using a **Con
 <a href="https://www.youtube.com/watch?v=_9g5hj0haFY" target="_blank">
   <img src="nisha.png" alt="Facial Expression Recognition Video" width="30000" target="_blank">
 </a>
+<a href="https://www.youtube.com/watch?v=_9g5hj0haFY" target="_blank">
+Click to see demo</a>
 
 The project was developed as part of an **Artificial Intelligence Internship at Coding Samurai**.
 
