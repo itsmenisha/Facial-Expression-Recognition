@@ -4,7 +4,7 @@
 
 This project implements a **Facial Expression Recognition** system using a **Convolutional Neural Network (CNN)**. It classifies human facial expressions into seven categories: **Angry, Disgust, Fear, Happy, Sad, Surprise, and Neutral**.  
 <a href="https://www.youtube.com/watch?v=_9g5hj0haFY" target="_blank">
-  <img src="nish.png" alt="Facial Expression Recognition Video" width="300">
+  <img src="nisha.png" alt="Facial Expression Recognition Video" width="30000">
 </a>
 
 The project was developed as part of an **Artificial Intelligence Internship at Coding Samurai**.
